@@ -1,0 +1,6 @@
+name: BugBauserver
+author: SuperKlug
+version: 1.0-SNAPSHOT
+main: de.superklug.bugcase.bugbauserver.BugBauserver
+
+commands:
